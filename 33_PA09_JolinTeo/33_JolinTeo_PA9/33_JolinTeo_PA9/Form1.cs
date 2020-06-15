@@ -21,6 +21,7 @@ namespace _33_JolinTeo_PA9
         {
             decimal USDollar = 0.74m;
             decimal JapaneseYen = 81.97m;
+            decimal MalaysianRinggit = 3.01m;
 
             decimal Answer;
 
@@ -39,7 +40,11 @@ namespace _33_JolinTeo_PA9
                     Answer = first * JapaneseYen;
                     txt_Converted.Text = Answer.ToString();
                 }
-
+                else if (rb_Ringgit.Checked)
+                {
+                    Answer = first * MalaysianRinggit;
+                    txt_Converted.Text = Answer.ToString();
+                }
                 else
                 {
                     MessageBox.Show("Please choose one of the currency");
@@ -60,6 +65,7 @@ namespace _33_JolinTeo_PA9
             txt_Converted.Clear();
             rb_US.Checked = false;
             rb_Yen.Checked = false;
+            rb_Ringgit.Checked = false;
         }
     }
 }
