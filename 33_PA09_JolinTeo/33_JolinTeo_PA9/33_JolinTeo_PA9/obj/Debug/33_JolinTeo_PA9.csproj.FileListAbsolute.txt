@@ -1,0 +1,10 @@
+C:\Users\user135\Desktop\33_PA09_JolinTeo\33_JolinTeo_PA9\33_JolinTeo_PA9\obj\Debug\33_JolinTeo_PA9.csprojAssemblyReference.cache
+C:\Users\user135\Desktop\33_PA09_JolinTeo\33_JolinTeo_PA9\33_JolinTeo_PA9\obj\Debug\_33_JolinTeo_PA9.Form1.resources
+C:\Users\user135\Desktop\33_PA09_JolinTeo\33_JolinTeo_PA9\33_JolinTeo_PA9\obj\Debug\_33_JolinTeo_PA9.Properties.Resources.resources
+C:\Users\user135\Desktop\33_PA09_JolinTeo\33_JolinTeo_PA9\33_JolinTeo_PA9\obj\Debug\33_JolinTeo_PA9.csproj.GenerateResource.cache
+C:\Users\user135\Desktop\33_PA09_JolinTeo\33_JolinTeo_PA9\33_JolinTeo_PA9\obj\Debug\33_JolinTeo_PA9.csproj.CoreCompileInputs.cache
+C:\Users\user135\Desktop\33_PA09_JolinTeo\33_JolinTeo_PA9\33_JolinTeo_PA9\bin\Debug\33_JolinTeo_PA9.exe.config
+C:\Users\user135\Desktop\33_PA09_JolinTeo\33_JolinTeo_PA9\33_JolinTeo_PA9\bin\Debug\33_JolinTeo_PA9.exe
+C:\Users\user135\Desktop\33_PA09_JolinTeo\33_JolinTeo_PA9\33_JolinTeo_PA9\bin\Debug\33_JolinTeo_PA9.pdb
+C:\Users\user135\Desktop\33_PA09_JolinTeo\33_JolinTeo_PA9\33_JolinTeo_PA9\obj\Debug\33_JolinTeo_PA9.exe
+C:\Users\user135\Desktop\33_PA09_JolinTeo\33_JolinTeo_PA9\33_JolinTeo_PA9\obj\Debug\33_JolinTeo_PA9.pdb
